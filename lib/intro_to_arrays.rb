@@ -19,6 +19,9 @@ def last_element(array)
   return array[-1]
 end
 
+def first_element_with_array_meth(array)
+  return array.first
+end
 
 # rspec ./spec/intro_to_arrays_spec.rb:73 # working with arrays using ruby array methods
 # to return values from an array #first_element_with_array_meth
