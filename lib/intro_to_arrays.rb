@@ -24,8 +24,9 @@ def first_element_with_array_methods(array)
   return first
 end
 
-
-
+def last_element_with_array_methods(array)
+  return array.last
+end
 # rspec ./spec/intro_to_arrays_spec.rb:80 # working with arrays using ruby array
 # methods to return values from an array #last_element_with_array_metho
 # ds takes in an argument of an array and returns the last element in the array,
