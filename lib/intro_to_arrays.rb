@@ -19,7 +19,7 @@ def last_element(array)
   return array[-1]
 end
 
-def first_element_with_array_meth(array)
+def first_element_with_array_methods(array)
   first = array.first
   return first
 end
