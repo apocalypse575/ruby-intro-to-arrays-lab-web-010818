@@ -19,17 +19,6 @@ def last_element(array)
   return array[-1]
 end
 
-# rspec ./spec/intro_to_arrays_spec.rb:60 # working with arrays indexing #last_element
-# takes in an argument of an array and returns the last element i
-# n the array using its negative index
-
-# rspec ./spec/intro_to_arrays_spec.rb:53 # working with arrays indexing #third_element
-# takes in an argument of an array and returns the third element
-#  in the array using its positive index
-
-# rspec ./spec/intro_to_arrays_spec.rb:60 # working with arrays indexing #last_element
-# takes in an argument of an array and returns the last element i
-# n the array using its negative index
 
 # rspec ./spec/intro_to_arrays_spec.rb:73 # working with arrays using ruby array methods
 # to return values from an array #first_element_with_array_meth
