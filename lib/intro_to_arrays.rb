@@ -11,9 +11,9 @@ def first_element(array)
   return array[0]
 end
 
-# rspec ./spec/intro_to_arrays_spec.rb:46 # working with arrays indexing #first_element
-# takes in an argument of an array and returns the first element
-#  in the array using its positive index
+def third_element(array)
+  return array[2]
+end
 
 # rspec ./spec/intro_to_arrays_spec.rb:53 # working with arrays indexing #third_element
 # takes in an argument of an array and returns the third element
