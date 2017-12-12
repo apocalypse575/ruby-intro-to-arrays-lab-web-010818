@@ -3,8 +3,8 @@ def instantiate_new_array
 end
 
 def array_with_two_elements(first, second)
-  ar = ["#{first}", "#{second}"]
-  return ar
+  my_array = ["#{first}", "#{second}"]
+  return my_array
 end
 
 # rspec ./spec/intro_to_arrays_spec.rb:29 # working with arrays instantiating #array_with_two_elements
