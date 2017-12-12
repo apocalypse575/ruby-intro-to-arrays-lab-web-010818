@@ -7,7 +7,9 @@ def array_with_two_elements
   return my_array
 end
 
-
+def first_element
+  
+end
 
 # rspec ./spec/intro_to_arrays_spec.rb:46 # working with arrays indexing #first_element
 # takes in an argument of an array and returns the first element
