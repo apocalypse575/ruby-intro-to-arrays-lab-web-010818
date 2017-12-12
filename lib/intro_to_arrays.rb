@@ -27,10 +27,10 @@ end
 def last_element_with_array_methods(array)
   return array.last
 end
-# rspec ./spec/intro_to_arrays_spec.rb:80 # working with arrays using ruby array
-# methods to return values from an array #last_element_with_array_metho
-# ds takes in an argument of an array and returns the last element in the array,
-# wihtout referencing the index number
+
+def length_of_array(array)
+  return array.length
+end
 
 # rspec ./spec/intro_to_arrays_spec.rb:93 # working with arrays using ruby array
 # methods to get information about an array #length_of_array takes in a
