@@ -24,10 +24,7 @@ def first_element_with_array_methods(array)
   return first
 end
 
-# rspec ./spec/intro_to_arrays_spec.rb:73 # working with arrays using ruby array methods
-# to return values from an array #first_element_with_array_meth
-# ods takes in an argument of an array and returns the first element in the array,
-# without referencing the index number of that element
+
 
 # rspec ./spec/intro_to_arrays_spec.rb:80 # working with arrays using ruby array
 # methods to return values from an array #last_element_with_array_metho
