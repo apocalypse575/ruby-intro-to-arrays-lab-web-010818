@@ -20,7 +20,7 @@ def last_element(array)
 end
 
 def first_element_with_array_meth(array)
-  return array[0]
+  return array[1]
 end
 
 # rspec ./spec/intro_to_arrays_spec.rb:73 # working with arrays using ruby array methods
