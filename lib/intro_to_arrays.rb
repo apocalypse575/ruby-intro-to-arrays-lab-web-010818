@@ -2,11 +2,9 @@ def instantiate_new_array
   return []
 end
 
-#   rspec ./spec/intro_to_arrays_spec.rb:14 # working with arrays instantiating #instantiate_new_array
-# creates a new array and returns it
-
-# rspec ./spec/intro_to_arrays_spec.rb:18 # working with arrays instantiating #instantiate_new_array
-# returns an array that is empty
+def array_with_two_elements(first, second)
+  return (first, second)
+end
 
 # rspec ./spec/intro_to_arrays_spec.rb:29 # working with arrays instantiating #array_with_two_elements
 # creates a new array with two elements in it and returns that array
