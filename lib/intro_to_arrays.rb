@@ -7,11 +7,7 @@ def array_with_two_elements
   return my_array
 end
 
-# rspec ./spec/intro_to_arrays_spec.rb:29 # working with arrays instantiating #array_with_two_elements
-# creates a new array with two elements in it and returns that array
 
-# rspec ./spec/intro_to_arrays_spec.rb:33 # working with arrays instantiating #array_with_two_elements
-# returns an array that has 2 objects in it
 
 # rspec ./spec/intro_to_arrays_spec.rb:46 # working with arrays indexing #first_element
 # takes in an argument of an array and returns the first element
